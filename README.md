@@ -44,7 +44,7 @@ I'm having fun learning these:
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=felixnogueirae&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=felixnogueira&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
