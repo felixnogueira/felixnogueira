@@ -36,7 +36,7 @@ I'm having fun learning these:
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnogueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnogueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide=cmake,html"
         alt="Github Stats languages"
       />
     </td>
