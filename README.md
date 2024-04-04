@@ -37,7 +37,7 @@ I'm having fun learning these:
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnogueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        alt="Github Stats languages"
       />
     </td>
     <td>
@@ -45,7 +45,7 @@ I'm having fun learning these:
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=felixnogueira&theme=dark&hide_border=false"
-        alt="Github Stats"
+        alt="Github Stats commits"
       />
     </td>
   </tr>
