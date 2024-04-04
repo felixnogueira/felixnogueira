@@ -31,24 +31,11 @@ I'm having fun learning these:
 
 ### ⚙️ GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnogueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide=cmake,html"
-        alt="Github Stats languages"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=felixnogueira&theme=dark&hide_border=false"
-        alt="Github Stats commits"
-      />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=felixnogueira" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixnogueira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=true&hide=cmake,html" />
+</a>
 
 
