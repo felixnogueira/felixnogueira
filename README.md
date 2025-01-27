@@ -20,7 +20,7 @@
 ## Projects
 [Electric Maze](https://github.com/felixnogueira/labirinto-eletrico/blob/main/README.md) - An Arduino programming project for an educational game about basic electricity concepts, written in C++, tested and applied.
 
-[Oracle Effect](https://github.com/felixnogueira/oraculo_arduino/blob/main/README.md) - An Arduino programming project integrated with a .NET WPF project (currently private for confidentiality), meant to integrate user interaction with physical components such as touch sensor buttons and LED lighting customization, with user interface written for touchscreen interaction in C# and XAML.
+[Oráculo Panel](https://github.com/felixnogueira/oraculo_panel/blob/master/README.md) & [Oráculo Arduino](https://github.com/felixnogueira/oraculo_arduino/blob/main/README.md) - An Arduino programming project integrated with a .NET WPF project, meant to integrate user interaction with physical components such as touch sensor buttons and LED lighting customization, with user interface written for touchscreen interaction in C# and XAML.
 
 
 ## My Skill Set  
