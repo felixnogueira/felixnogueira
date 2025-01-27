@@ -18,9 +18,10 @@
 <br/>  
 
 ## Projects
-[Electric Maze](https://github.com/felixnogueira/labirinto-eletrico/) - An Arduino programming project for an educational game about basic electricity concepts, written in C++, tested and applied.
 
-[Oráculo Panel](https://github.com/felixnogueira/oraculo_panel/) & [Oráculo Arduino](https://github.com/felixnogueira/oraculo_arduino/) - An Arduino programming project integrated with a .NET WPF project, meant to integrate user interaction with physical components such as touch sensor buttons and LED lighting customization, with user interface written for touchscreen interaction in C# and XAML.
+[Oráculo Panel](https://github.com/felixnogueira/oraculo_panel/) & [Oráculo Arduino](https://github.com/felixnogueira/oraculo_arduino/) For Mitsubishi Electric Brasil - An Arduino programming project integrated with a .NET WPF project, meant to integrate user interaction with physical components such as touch sensor buttons and LED lighting customization, with user interface written for touchscreen interaction in C# and XAML.
+
+[Electric Maze](https://github.com/felixnogueira/labirinto-eletrico/) - An Arduino programming project for an educational game about basic electricity concepts, written in C++, tested and applied.
 
 
 ## My Skill Set  
