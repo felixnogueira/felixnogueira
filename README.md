@@ -15,16 +15,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:SHOW_DAYS_OF_THE_WEEK-->
-
-
-<!--END_SECTION:SHOW_DAYS_OF_THE_WEEK-->
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=felixnogueira&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
