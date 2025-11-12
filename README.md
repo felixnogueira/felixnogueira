@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2025 - To: 10 November 2025
+From: 08 November 2025 - To: 12 November 2025
 
-Total Time: 3 hrs
+Total Time: 8 hrs 12 mins
 
-TypeScript         1 hr 15 mins    ██████████▒░░░░░░░░░░░░░░   41.92 %
-HTML               45 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-CSS                20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Python             16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-.env file          14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+TypeScript         3 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   44.70 %
+CSS                1 hr 57 mins    ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+HTML               1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+.env file          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Python             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
