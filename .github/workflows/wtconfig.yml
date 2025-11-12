@@ -3,8 +3,8 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
@@ -20,7 +20,10 @@ jobs:
           LANG_COUNT: 5 
           SHOW_TIME: true 
           SHOW_TOTAL: true 
-          SHOW_OS: true 
+          SHOW_OS: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
