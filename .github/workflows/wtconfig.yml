@@ -23,7 +23,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_TIMEZONE: "False"
+          SHOW_PROJECTS: "False"
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
